@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Ahmed Al-Swaidi 👋
 
-<!--
-**Ahmed2-111/Ahmed2-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ingenieurinformatik Student at HTW Berlin
 
-Here are some ideas to get you started:
+I am a motivated engineering informatics student with interests in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Development
+- Embedded Systems
+- Arduino & Microcontrollers
+- Object-Oriented Programming
+- Technical IT Projects
+
+---
+
+## Technologies & Tools
+
+- Python
+- C#
+- C/C++
+- Arduino
+- Git & GitHub
+- GitLab
+- CMake
+- SQL
+- Linux
+- Visual Studio
+
+---
+
+## Current Projects
+
+- Badminton Serving Machine
+- Arduino Traffic Light System
+- OSS Check with CMake
+- Memory Game Project
+
+---
+
+## Currently Learning
+
+- Embedded Systems
+- Microcontroller Programming
+- Software Architecture
+- Hardware-Software Integration
+
+---
+
+## Contact
+
+📍 Berlin, Germany  
+🎓 HTW Berlin  
